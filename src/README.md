@@ -1,6 +1,23 @@
-Control software
+First Mission Requirements
 ====
+Libraries:
+numpy, 
+gpiozero, 
+lgpio, 
+adafruit-circuitpython-pca9685, 
+adafruit-circuitpython-mpu6050, 
+adafruit-circuitpython-vl53l0x, 
+adafruit-blinka, 
+matplotlib
 
-This directory must contain code for control software which is used by the vehicle to participate in the competition and which was developed by the participants.
-
-All artifacts required to resolve dependencies and build the project must be included in this directory as well.
+Second Mission Requirements
+====
+Libraries:
+OpenCV (cv2), 
+NumPy, 
+Picamera2, 
+smbus2, 
+gpiozero, 
+lgpio, 
+adafruit-blinka, 
+adafruit-circuitpython-vl53l0x

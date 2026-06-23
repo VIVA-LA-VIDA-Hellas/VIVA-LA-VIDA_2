@@ -43,7 +43,7 @@ from gpiozero import DistanceSensor
 from threading import Event
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # Get directory of the running script
-CONFIG_FILE = os.path.join(BASE_DIR, "1st_mission_variables.json")
+CONFIG_FILE = os.path.join(BASE_DIR, "1st_mission_variables_SAFE.json")
 
 # ===============================
 # CONFIGURATION VARIABLES
@@ -87,7 +87,7 @@ TURN_TIMEOUT = 2.5            # Maximum time allowed for a turn (seconds)
 TURN_LOCKOUT = 1.5            # Minimum interval between consecutive turns (seconds)
 POST_TURN_DURATION = 0.5      # Time to drive straight after a turn (seconds)
 LOCK_TURN_DIRECTION = 1       # 1 = enable turn lock direction after 1st turn, 0 = disable
-TARGET_TURN_ANGLE = 85        # Degrees to turn per corner
+TARGET_TURN_ANGLE = 86        # Degrees to turn per corner
 TURN_ANGLE_TOLERANCE = 6      # Acceptable overshoot (degrees)
 
 # ---------- Turn angle constraints ----------
@@ -96,10 +96,10 @@ MAX_TURN_ANGLE = 105          # Maximum yaw change (degrees) to force stop turn
 
 # ---------- Laps ----------
 MAX_LAPS = 3                  # Maximum number of laps before stopping (0 = unlimited)
-POST_LAP_DURATION = 0.85         # Time to drive forward after final lap before stopping (seconds)
+POST_LAP_DURATION = 2.50         # Time to drive forward after final lap before stopping (seconds)
 
 # ---------- Sensor data filtering ----------
-N_READINGS = 5                # Number of readings stored for median filtering
+N_READINGS = 4                # Number of readings stored for median filtering
 US_QUEUE_LEN = 1              # Queue_len for Ultrasonic gpiozero.DistanceSensor
 FILTER_ALPHA = 1.0            # Ultrasonic 0.1 = smoother, 0.5 = faster reaction, 1 to ignore filter
 FILTER_JUMP = 9999            # Ultrasonic maximum jump (cm) allowed between readings
@@ -111,7 +111,7 @@ US_MAX_DISTANCE_SIDE = 1.2   # Ultrasonic side max read distance
 
 # ---------- Loop timing ----------
 LOOP_DELAY = 0.005            # Delay between main loop iterations (seconds) 0.02
-SENSOR_DELAY = 0.01          # Delay between sensor reads
+SENSOR_DELAY = 0.005          # Delay between sensor reads
 
 #-----------------------------------------------------------------------------------------
 
@@ -246,7 +246,7 @@ MOTOR_REV = 2                 # PCA9685 channel for reverse motor control
 
 # ---------- Servo ----------
 SERVO_CHANNEL = 0             # PCA9685 channel controlling steering servo
-SERVO_CENTER = 90             # Neutral servo angle (degrees)
+SERVO_CENTER = 88              # Neutral servo angle (degrees)
 SERVO_MIN_ANGLE = 50          # Minimum physical servo angle (degrees)
 SERVO_MAX_ANGLE = 130         # Maximum physical servo angle (degrees)
 SERVO_PULSE_MIN = 1000        # Minimum PWM pulse width (microseconds)

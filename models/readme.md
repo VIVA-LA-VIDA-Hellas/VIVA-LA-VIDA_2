@@ -17,6 +17,18 @@
 6. Servo Holder
    - [VLV-servoholder-final.stl](VLV-servoholder-final.stl)
 
+
+## What follows are the instuctions on how to asseble our robot, along with a list of the required materials (and their prices) and assembly instructions for our lego based differential gear and ackermann stearing system
+
+### Assembly Instructive Document
+- [Instruction Manual](Instruction_manuals.md)
+
+### List Of Materials
+- [List of materials](Materials_needed_and_BOM.md)
+
+### Lego Differential And Ackermann
+- [Lego Ackerman](lego_ackemann_instructions.md)
+- [Lego Differential Gear](lego_differential_instructions)
      
 > ### If you want to use the same software we did, check out [Fusion 360](https://www.autodesk.com/products/fusion-360/overviewhttps://www.autodesk.com/products/fusion-360/overview)
 

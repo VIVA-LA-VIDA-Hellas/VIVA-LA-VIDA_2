@@ -1,21 +1,24 @@
 ## Here you can find the files of our 3D print designs, download them and import them to your selected software to print
 1. Camera Base
-   - [VLV-camerabase-final.stl](VLV-camerabase-final.stl)
+   - [Camera Base](VLV-camerabase-final.stl)
 
 2. Chassis Model
-   - [VLV-chassis-final.stl](VLV-chassis-final.stl)
+   - [Chassis](VLV-chassis-final.stl)
 
 3. Distance Sensor Base
-   - [VLV-disensorbase-final.stl](VLV-disensorbase-final.stl)
+   - [Distance Sensor Base](VLV-disensorbase-final.stl)
 
 4. Motor Base
-   - [VLV-motorbase-final.stl](VLV-motorbase-final.stl)
+   - [Motor Base](VLV-motorbase-final.stl)
 
 5. Motor Gear
-   - [VLV-motorgear-final.stl](VLV-motorgear-final.stl)
+   - [Motor Gear](VLV-motorgear-final.stl)
 
 6. Servo Holder
-   - [VLV-servoholder-final.stl](VLV-servoholder-final.stl)
+   - [Servo Holder](VLV-servoholder-final.stl)
+
+7. ToF Base
+   - [Time of Flight Base](VLV-Tof-final.stl)
 
 
 ## What follows are the instuctions on how to asseble our robot, along with a list of the required materials (and their prices) and assembly instructions for our lego based differential gear and ackermann stearing system

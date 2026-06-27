@@ -21,17 +21,14 @@
    - [Time of Flight Base](3d_designs/VLV-Tof-final.stl)
 
 
-## What follows are the instuctions on how to asseble our robot, along with a list of the required materials (and their prices) and assembly instructions for our lego based differential gear and ackermann stearing system
+## What follows are the LEGO pieces required to build the same differential gear and ackerman system as ours
 
-### Assembly Instructive Document
-- [Instruction Manual](instructions/Instruction_manuals.md)
+### Differential Pieces
+- [LEGO Differential Pieces](LEGO_parts/differential)
 
-### List Of Materials
-- [List of materials](instructions/Materials_needed_and_BOM.md)
-
-### Lego Differential And Ackermann
-- [Lego Ackerman](instructions/lego_ackemann_instructions.md)
-- [Lego Differential Gear](instructions/lego_differential_instructions.md)
+### Ackermann Pieces
+- [LEGO Ackermann Pieces](LEGO_parts/ackermann)
+- [LEGO Differential Pieces](instructions/lego_differential_instructions.md)
      
 > ### If you want to use the same software we did, check out [Fusion 360](https://www.autodesk.com/products/fusion-360/overviewhttps://www.autodesk.com/products/fusion-360/overview)
 

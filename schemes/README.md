@@ -1,4 +1,4 @@
-# This directory consists of the electromechanical components used for this project, as well as further information about them such as, justification of use, component characteristics and discriptive photos explaining the different parts of the PCB placket utilized 
+### This directory consists of the electromechanical components used for this project, as well as further information about them such as, justification of use, component characteristics and discriptive photos explaining the different parts of the PCB placket utilized 
 
 ## Mechanical Components (motor, servo, sensors)
 ## Discriptive PCB Photos

@@ -12,7 +12,7 @@ adafruit-circuitpython-vl53l0x,
 adafruit-blinka, 
 matplotlib
 ### Code:
-[Open Challenge Code](1st_mission.py)
+[Open Challenge Code](1.Open_Challenge/Open_Challenge.py)
 
 ## Obstacle Challenge Requirements And Code 
 
@@ -27,4 +27,4 @@ adafruit-blinka,
 adafruit-circuitpython-vl53l0x
 
 ### Code:
-[Obstacle Challenge Code](2nd_mission.py)
+[Obstacle Challenge Code](2.Obstacle_Challenge/Obstacle_Challenge.py)

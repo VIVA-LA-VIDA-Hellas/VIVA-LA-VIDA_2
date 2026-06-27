@@ -31,7 +31,7 @@
 
 ### Lego Differential And Ackermann
 - [Lego Ackerman](instructions/lego_ackemann_instructions.md)
-- [Lego Differential Gear](instructions/lego_differential_instructions)
+- [Lego Differential Gear](instructions/lego_differential_instructions.md)
      
 > ### If you want to use the same software we did, check out [Fusion 360](https://www.autodesk.com/products/fusion-360/overviewhttps://www.autodesk.com/products/fusion-360/overview)
 

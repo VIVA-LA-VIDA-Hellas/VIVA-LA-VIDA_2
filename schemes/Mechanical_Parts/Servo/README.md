@@ -1,6 +1,7 @@
 Steering Servo – TowerPro MG996R
 The robot uses a TowerPro MG996R high-torque metal-gear servo for steering. This servo is widely used in robotics due to its strength, reliability, and standard RC interface, making it well suited for precise and repeatable steering control under load.
 <img width="519" height="380" alt="image" src="https://github.com/user-attachments/assets/c3a7885e-c8eb-494c-bfad-98fa300a68ad" />
+
 1 MG996R Technical Specifications
 Electrical Characteristics
 

@@ -1,6 +1,6 @@
-# This directory includes the code needed to complete two missions, the open mission (first mission) and the obstacle mission (second mission), as well as the requirements to run the code itself 
+# This directory includes the code needed to complete two missions, the open challenge and the obstacle challenge, as well as the requirements to run the code itself 
 
-## First Mission Requirements And Code
+## Open Challenge Requirements And Code
 
 ### Libraries:
 numpy, 
@@ -14,7 +14,7 @@ matplotlib
 ### Code:
 [First Mission Code](1st_mission.py)
 
-## Second Mission Requirements And Code 
+## Obstacle Challenge Requirements And Code 
 
 ### Libraries:
 OpenCV (cv2), 

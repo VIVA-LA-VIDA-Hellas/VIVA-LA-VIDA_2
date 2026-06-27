@@ -1,4 +1,3 @@
-<img width="441" height="440" alt="image" src="https://github.com/user-attachments/assets/ec7f2c18-6410-4cca-9c4e-bf2d236414d2" />
 # For our camera we chose: The ArduCam IMX219 
 <img width="441" height="440" alt="image" src="https://github.com/user-attachments/assets/ec7f2c18-6410-4cca-9c4e-bf2d236414d2" />
 ## Why we chose it

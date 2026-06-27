@@ -5,6 +5,7 @@
  - [Servo](Mechanical_Parts/Servo)
  - [Ackermann](Mechanical_Parts/Ackermann)
  - [Differential](Mechanical_Parts/Differential)
+ - [Block_Diagram](Mechanical_Parts/Block_Diagram)
 ## Discriptive PCB Photos
 ### Top
 <img width="1043" height="1056" alt="image" src="https://github.com/user-attachments/assets/b3da0a25-f41b-462c-9c90-ff184fffb77d" />

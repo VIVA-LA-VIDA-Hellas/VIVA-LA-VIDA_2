@@ -24,11 +24,11 @@
 ## What follows are the LEGO pieces required to build the same differential gear and ackerman system as ours
 
 ### Differential Pieces
-- [LEGO Differential Pieces](LEGO_parts/differential)
+- [LEGO Differential Pieces](LEGO_parts/Differential/)
 
 ### Ackermann Pieces
-- [LEGO Ackermann Pieces](LEGO_parts/ackermann)
-- [LEGO Differential Pieces](instructions/lego_differential_instructions.md)
+- [LEGO Ackermann Pieces](LEGO_parts/Ackermann/)
+  
      
 > ### If you want to use the same software we did, check out [Fusion 360](https://www.autodesk.com/products/fusion-360/overviewhttps://www.autodesk.com/products/fusion-360/overview)
 

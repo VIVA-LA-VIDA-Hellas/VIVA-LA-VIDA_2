@@ -3,10 +3,12 @@
 ## Mechanical Components (motor, servo, sensors)
 ## Discriptive PCB Photos
 ### Top
-![alt text](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA_2/blob/main/schemes/PCB-Descriptive%20photo%201.png)
+<img width="1043" height="1056" alt="image" src="https://github.com/user-attachments/assets/b3da0a25-f41b-462c-9c90-ff184fffb77d" />
+
 
 ### Bottom
-![alt text](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA_2/blob/main/schemes/PCB-Descriptive%20photo%202.png)
+<img width="1038" height="1068" alt="image" src="https://github.com/user-attachments/assets/b9a99667-97ab-49e0-b151-a9157d6c1be4" />
+
 
 ## Final PCB design layout 
 

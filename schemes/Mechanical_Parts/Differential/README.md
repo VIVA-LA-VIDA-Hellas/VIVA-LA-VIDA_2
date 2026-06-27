@@ -2,7 +2,8 @@
 ## Differential – [Differential Model / Type]
 The robot uses a **[differential model / type]** to split power from the drivetrain into independent left and right wheel motion. This differential allows the robot to turn smoothly by letting the wheels rotate at different speeds while still sharing a common input. As a result, it improves maneuverability on corners and reduces drivetrain stress compared to forcing the left and right sides to rotate at the same speed.
 
-<img width="812" height="793" alt="image" src="https://github.com/user-attachments/assets/e503e2d3-fd02-491e-9537-29b0c7686197" />
+<img width="412" height="273" alt="image" src="https://github.com/user-attachments/assets/ae87d359-5e80-4ba8-a7b6-2fae191879cf" />
+
 
 ### 1 Differential Technical Specifications
 

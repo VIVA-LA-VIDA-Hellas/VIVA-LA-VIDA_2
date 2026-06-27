@@ -23,6 +23,11 @@
 ### Combined top and bottom layer
 <img width="1182" height="902" alt="PCB Mixed top and bottom" src="https://github.com/user-attachments/assets/b8b7cf1b-bc22-4838-9aa7-3c6753ecab2e" />
 
+## Assembly Manuals
+- [Vehicle](instructions/Instruction_manuals.md)
+- [Ackermann](instructions/lego_ackermann_instructions.md)
+- [Differential](instructions/lego_differential_instructions.md)
+
 >  [!NOTE]
 >  These designs were created entirely by us with the use of EasyEDA.
 >  [Click here to go to their website and find out more](https://easyeda.com/)

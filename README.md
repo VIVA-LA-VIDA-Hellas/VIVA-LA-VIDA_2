@@ -15,11 +15,10 @@
 
 
 ## TEAM MEMBERS:
-### Nikol Vasilopoulou (user: Quart0xe)
+### Giannis Kapanikis (user: Dante1307)
 ### Panagiotis Mourmouris (user: Panos1431)
 ### Thanos Karatsis (user: thkaratsis)
 
-*Disclaimer: we did not use these accounts in the creation of this repository. Instead we created a new email and github account specificaly for our team, which we all have access to and utilise across all platforms. 
 
 
 
@@ -28,14 +27,13 @@
 ### *Use the index for an easy navigation of our github or, continue bellow to view our creation process, as well as an overview on everything about the robot.*
 
 ## 1. Mobility management
-####        1.1 [Motor](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-DC-Motor.md)
-####        1.2 [Ackerman](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Ackerman%20Steering.md)
-####        1.3 [Servo](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Servo-Motor.md)
-####        1.4 [Servo and motor 3d Bases](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/3d%20designs/3d%20schematics)
+####        1.1 [Motor](schemes/Mechanical_Parts/Motor)
+####        1.2 [Ackerman](schemes/Mechanical_Parts/Ackermann)
+####        1.3 [Servo](schemes/Mechanical_Parts/Servo)
+####        1.4 [Servo and motor 3d Bases](models/3d_designs)
 
 ## 2. Power Management
-####        2.1 [Batteries](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Power%20System.md)
-####        2.2 [PCB circuit designs and schematics](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Schematics/PCB)
+####        2.1 [PCB circuit designs and schematics](schemes/PCB_Design)
 
 ## 3. Sensors
 ####        2.1 [Distance sensors](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Sensors-Distance.md)

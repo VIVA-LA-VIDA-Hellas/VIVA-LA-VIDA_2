@@ -55,14 +55,14 @@
 ## 7. Code files
 ####        8.1 [Open Challenge](src/1.Open_Challenge)
 ####        8.2 [Obstacle Challenge](src/2.Obstacle_Challenge)
-####        8.3 [Colour Calibration](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Code%20files/Python%20files/New%20files%20September%2B/Colour_picker.py)
+####        8.3 [Colour Calibration](other/python_files/Color_Picker.py)
 
 ## 8. Manuals
-####        9.1 [Instruction manuals](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals)
-####        9.2 [Lego ackerman instructions](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals/Lego%20ackerman%20instructions)
-####        9.3 [Lego differential instructions](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals/Lego%20differential%20instructions)
-####        9.4 [Build details](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Robot%20Photos/Descriptive%20photos)
-####        9.5 [Full instructions](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals/Full%20robot%20instructions)
+####        9.1 [Instruction manuals](schemes/instructions)
+####        9.2 [Lego ackerman instructions](schemes/instructions/lego_ackermann_instructions.md)
+####        9.3 [Lego differential instructions](schemes/instructions/lego_differential_instructions.md)
+####        9.4 [Build details](v-photos)
+####        9.5 [Full instructions](schemes/instructions/Instruction_manuals.md)
 
 ## 9. Extra material
 ####        10.1 [Team logo](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Team%20-%20Extras/Logo)

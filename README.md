@@ -36,39 +36,35 @@
 ####        2.1 [PCB circuit designs and schematics](schemes/PCB_Design)
 
 ## 3. Sensors
-####        2.1 [Distance sensors](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Sensors-Distance.md)
-####        2.2 [Accelerometre / Gyro](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Sensors-Gyro.md)
-####        2.3 [Camera](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Camera.md)
-####        2.4 [Buttons & Leds](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Vehicle/Compartments/Electronics-Interface-and-Debugging.md)
+####        2.1 [Distance sensors](schemes/Sensors/Distance_Sensors)
+####        2.2 [Accelerometre / Gyro](schemes/Sensors/Accelerometre_Gyro)
+####        2.3 [Camera](schemes/Sensors/Camera)
+####        2.4 [Buttons & Leds](schemes/Sensors/Buttons_Leds)
 
 ## 4. 3D Prints
-####        4.1 [3D schematics](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/3d%20designs/3d%20schematics)
-####        4.2 [Photos of 3D printed parts](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/3d%20designs/3d%20printed%20part%20photos)
+####        4.1 [3D schematics](models/3d_designs)
 
 ## 5. Pictures 
-####        5.1 [Team photos](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Team%20photos)
-####        5.2 [Vehicle photographs](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Robot%20Photos)
+####        5.1 [Team photos](t-photos)
+####        5.2 [Vehicle photographs](v-photos)
 
 ## 6. Performance videos
 ####        6.1 [Youtube channel link](https://www.youtube.com/@VIVALAVIDAFutureEnginners)
-####        6.2 [All video links](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Videos)
+####        6.2 [All video links](video)
 
-## 7. Daily entries
-####        7.1 [Logs](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Training%20meetings%20log)
-
-## 8. Code files
-####        8.1 [Open Challenge](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Code%20files/1.%20Open%20Challenge)
-####        8.2 [Obstacle Challenge](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Code%20files/2.%20Obstacle%20challenge)
+## 7. Code files
+####        8.1 [Open Challenge](src/1.Open_Challenge)
+####        8.2 [Obstacle Challenge](src/2.Obstacle_Challenge)
 ####        8.3 [Colour Calibration](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/blob/main/Code%20files/Python%20files/New%20files%20September%2B/Colour_picker.py)
 
-## 9. Manuals
+## 8. Manuals
 ####        9.1 [Instruction manuals](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals)
 ####        9.2 [Lego ackerman instructions](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals/Lego%20ackerman%20instructions)
 ####        9.3 [Lego differential instructions](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals/Lego%20differential%20instructions)
 ####        9.4 [Build details](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Robot%20Photos/Descriptive%20photos)
 ####        9.5 [Full instructions](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Instruction%20Manuals/Full%20robot%20instructions)
 
-## 10. Extra material
+## 9. Extra material
 ####        10.1 [Team logo](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Team%20-%20Extras/Logo)
 ####        10.2 [Team name - VIVA ΛΑ VIΔΑ](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Team%20-%20Extras/Name)
 ####        10.3 [Team shirts](https://github.com/VIVA-LA-VIDA-Hellas/VIVA-LA-VIDA/tree/main/Team%20-%20Extras/Shirts)
